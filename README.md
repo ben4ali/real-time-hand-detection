@@ -36,8 +36,8 @@ A real-time skin detection system that uses color segmentation techniques to ide
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/ben4ali/real-time-hand-detection.git
-cd real-time-hand-detection
+git clone https://github.com/ben4ali/real-time-skin-detection
+cd real-time-skin-detection
 ```
 
 1. Install dependencies:
