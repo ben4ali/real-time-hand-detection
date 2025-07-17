@@ -9,10 +9,10 @@ A real-time skin detection system that uses color segmentation techniques to ide
 ![Skin Detection Example](previews/image.png)
 *Example of successful skin detection with bounding box overlay with binary mask*
 
-![Processing Pipeline](previews/image2.png)
+![Far](previews/image2.png)
 *Works even if its far*
 
-![Multiple Hands](previews/image3.png)
+![Cat](previews/image3.png)
 *Works with cats*
 
 ## Features
